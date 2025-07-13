@@ -1,0 +1,14 @@
+{
+  "name": "meu-bot-minecraft",
+  "version": "1.0.0",
+  "description": "Bot Minecraft 1.8.8 em Node.js usando mineflayer",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.3.0"
+  }
+}
